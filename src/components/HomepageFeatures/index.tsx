@@ -5,19 +5,65 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     Svg: "/img/phone1.svg",
-    description: <>Edit your design by tap, hold, drag & drop building blocks called block</>,
+    description: (
+      <>
+        Edit your design by tap, hold, drag & drop building blocks called block
+      </>
+    ),
   },
   {
     Svg: "/img/phone2.svg",
-    description: <>Tap on block then color and layout options will appear to edit by your style</>,
+    description: (
+      <>
+        Tap on block then color and layout options will appear to edit by your
+        style
+      </>
+    ),
   },
   {
     Svg: "/img/phone3.svg",
-    description: <>Add more functionality to your project by adding more Plug-ins</>,
+    description: (
+      <>Add more functionality to your project by adding more Plug-ins</>
+    ),
   },
   {
     Svg: "/img/phone4.svg",
-    description: <>Automatically add interactions & database configuration without any code</>,
+    description: (
+      <>
+        Automatically add interactions & database configuration without any code
+      </>
+    ),
+  },
+  {
+    Svg: "/img/phone1.svg",
+    description: (
+      <>
+        Edit your design by tap, hold, drag & drop building blocks called block
+      </>
+    ),
+  },
+  {
+    Svg: "/img/phone2.svg",
+    description: (
+      <>
+        Tap on block then color and layout options will appear to edit by your
+        style
+      </>
+    ),
+  },
+  {
+    Svg: "/img/phone3.svg",
+    description: (
+      <>Add more functionality to your project by adding more Plug-ins</>
+    ),
+  },
+  {
+    Svg: "/img/phone4.svg",
+    description: (
+      <>
+        Automatically add interactions & database configuration without any code
+      </>
+    ),
   },
 ];
 

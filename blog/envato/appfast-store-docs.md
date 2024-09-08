@@ -1,5 +1,12 @@
 # FastMart Template Documentation
 
+> 👀️ **TIP**
+>
+> While troubleshooting, always start your application without the cache!
+>
+> - Expo `npx expo start --clear`
+> - React Native CLI `npx react-native start --reset-cache`
+
 ## 1. Introduction
 
 **Project Title**: FastMart Template
@@ -250,7 +257,6 @@ export default Profile;
 - **How do I change the app name and icon?**
 
   - Modify the app.json file and update the name and icon properties.
-
 - **How do I integrate third-party services (e.g., Firebase)?**
 
   - Follow the official documentation for integrating third-party services. Add necessary packages and configuration in App.js.

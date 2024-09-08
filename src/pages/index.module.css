@@ -3,8 +3,8 @@
  * and scoped locally.
  */
 
- .heroBanner {
-  padding: 4rem 0;
+.heroBanner {
+  padding: 1rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -24,7 +24,7 @@
 }
 
 .imgBanner {
-  max-width: 510px;
+  max-width: 310px;
 }
 
 .btnDownload {
@@ -41,7 +41,8 @@
   justify-content: center;
 }
 
-.btnBlock, .homeBanner {
+.btnBlock,
+.homeBanner {
   display: flex;
   flex-direction: row-reverse;
   justify-content: center;
@@ -84,7 +85,7 @@
 
 @media screen and (max-width: 966px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1rem;
   }
 
   .btnDownload {
@@ -101,7 +102,8 @@
     max-width: 255px;
   }
 
-  .btnBlock, .homeBanner {
+  .btnBlock,
+  .homeBanner {
     display: block;
   }
 
