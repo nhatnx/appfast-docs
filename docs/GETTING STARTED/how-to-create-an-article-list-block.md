@@ -1,19 +1,19 @@
 ---
 sidebar_position: 7
-title: How to create a Slide Banner block
+title: How to create an article list block
 ---
 
-The Slide Banner block is a versatile and visually engaging element that allows you to display multiple images or
-content slides within a single banner. This guide will walk you through the steps to create and customize a Slide Banner
-block using the common block properties available in Appfast.
+The Article List block is a powerful feature that allows you to dynamically display a list of articles on your page.
+This guide will walk you through the steps to create and customize an Article List block using the common block
+properties available in Appfast.
 
-## Understanding the Slide Banner Block
+## Understanding the Article List Block
 
-The Slide Banner block is designed to showcase a series of slides, typically images or promotional content, in a
-rotating banner format. This block is commonly used on homepages or landing pages to capture user attention and
-highlight important messages or offers.
+The Article List block is designed to automatically generate a list of articles based on the content available in your
+website. This block is particularly useful for displaying blog posts, news updates, or any other type of article-based
+content.
 
-## Adding a Slide Banner Block
+## Adding an Article List Block
 
 ### Step 1: Navigate to the Block Section
 
@@ -24,7 +24,7 @@ Block button, and from the available block options, select Slide Banner.
 
 ![Slide Banner Add Block](../../static/img/how-to/slide-banner/add-block.png)
 
-### Step 2: Configuring the Slides
+### Step 2: Configuring the Article List
 
 ![Slide Banner Add Item](../../static/img/how-to/slide-banner/add-item.png)
 
@@ -64,7 +64,7 @@ design needs. Here’s a quick overview of the common block properties:
   aligns well with other elements on your page.
 - Radius: Set the corner radius for the block to enhance its visual appeal on your page.
 
-### Slide-Specific Properties:
+### Article List-Specific Properties:
 
 ![Slide Banner Skin](../../static/img/how-to/slide-banner/skin.png)
 
@@ -89,7 +89,7 @@ Once you’ve configured the Slide Banner block to your liking:
 - Preview: Use the preview function to see how the banner will look on different devices (desktop, tablet, mobile).
 - Publish: When satisfied with the design, click Publish to push OTA update to make the Slide Banner live on your app.
 
-### Best Practices for Using Slide Banners
+### Best Practices for Using Article List
 
 - **Limit the Number of Slides:** While it might be tempting to include many slides, keeping the number of slides to a
   minimum ensures that users focus on the key messages.
